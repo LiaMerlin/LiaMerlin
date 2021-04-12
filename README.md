@@ -7,4 +7,17 @@
 
 #### Atualmente, faço parte da equipe Java do programa de trainees da empresa Foursys. 
 
+# Meus conhecimentos e formação
 
+#### Atualmente estou cursando Análise e Desenvolvimento de Sistemas na universidade Unisinos. Estou aprendendo a programar em JAVA e tenho prévio conhecimento de algumas tecnologias frontend, como JavaScript e CSS. Também estou estudando UX e UI! 
+#### Estou participando do programa de Trainees JAVA da empresa Foursys. Lá estou ganhando comnhecimento em várias coisas, tais como:
+
+#### • JAVA EE: Servlets, JSP, JSF, Facelets, Maven.
+#### • JAVA SE: Swing, JDBC.
+#### • Web: Html5, CSS, Typescript, Javascript, Jquery, Richfaces, Primefaces.
+#### • Arquitetura: Design Patterns, MVC, WebServices, AWB 3.0.
+#### • ORM: Hibernate, JPA.
+#### • IDE e FrontEnd: Eclipse, NetBeans, iReport.
+#### • Servidores de Aplicação: Tomcat.
+#### • Banco de Dados: SQL Server.
+#### • Controle de Versão: GIT, SVN.
